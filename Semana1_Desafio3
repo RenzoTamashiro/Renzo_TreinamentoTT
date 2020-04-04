@@ -1,0 +1,4 @@
+O Sensor Digital Ultrassônico EV3 gera ondas sonaras e detecta oseu respectivo eco, podendo assim medir distância entre objetos.
+Pode medir distâncias entre 1cm até 250 cm.
+Possui precisão de +/- 1cm
+Um exemplo de uso é em batalhas de sumô lego nas quais os sensores são utilizados para identificar a posição do robô adversário.
