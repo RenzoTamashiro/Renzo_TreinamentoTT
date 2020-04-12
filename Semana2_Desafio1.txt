@@ -1,0 +1,6 @@
+Trata-se de um sensor de temperatura que utiliza de uma leitura de ddp, que pode ser convertida em temperatura em Celsius.
+O fator de escala é o valor que de conversão de V para °C, no caso cada 10mV equivale a 1°C.
+A precisão do sensor é a margem de erro da medida do sensor, para este dispositivo a precisão é ±2°C.
+Temperatura Operacional é o intervalo de temperatura na qual o dispositivo funcionará eficientemente, para este sensor é entre -40°C e 150°C.
+A linearidade mede a inclinação da reta formada pelos diferentes valores de tendência, quanto menor o valor, melhor é a qualidade da medição, do TPM36 é ±0,5°C.
+O sensor pode ser usado em alarmes de incêndio, Processos de controle industrial e em qualquer sistema com a finalidade de medir temperaturas
