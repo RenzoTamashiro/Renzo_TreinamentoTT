@@ -1,0 +1,6 @@
+O multímetro é um equipamento destinado a medir grandezas rellacionadas à elétrica tais como corrente elétrica, ddp, e resistência.
+Por padrão ele une os equipamentos amperímetro, voltímetro e ohmímetro.
+São utilizados frequntemente no ramo da eletrônica por sua capacidade de pesquisar defeitos e simplicidade de uso.
+Para se medir a tensão elétrica, escolhe sua escala esperada, conecta-se a ponta vermelha ao polo positivo e a ponta preta aos polo negativo, assim o multímetro fornecerá o valor desejado.
+Para medir a resistência é da mesma forma da anterior, porém com o circuito desligado e sem necessidade de escolher a escala.
+Para medir a intensidade da corrente é necessário que o multímetro seja "parte" do circuito, assim a corrente fluirá com dentro do multímetro.
