@@ -1,0 +1,6 @@
+Protoboard é uma placa que contém furos com ligações condutoras para simular circuitos elétricos.
+Por não necessitar de soldagem, facilita na hora de montar os circuitos eletrônicos, sendo assim importante para a simulação.
+É muito utilizada em escolas de ensiono técnico para o ensinamento de eletrônica.
+Nas extremidades superiores e inferiores das protoboards existem os barramentos de alimentação usados para fornecer energia ao circuito.
+Existem também os barramentos de prototipagem, onde são colocados os componentes eletrônicos de interesse.
+E uma barra Central que separa os barramentos.
